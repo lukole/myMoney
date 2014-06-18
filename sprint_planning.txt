@@ -1,0 +1,7 @@
+===
+[15.06] [1w] [finished]
+- instalacja œrodowiska
+===
+[22.06] [1w]
+- schemat DB
+=== 
