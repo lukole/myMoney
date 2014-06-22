@@ -36,3 +36,6 @@ local.properties
  
 ### Maven ###
 target/
+
+### Other ###
+notes.txt
